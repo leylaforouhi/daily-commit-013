@@ -1,4 +1,4 @@
-def square_numbers(number):
+def square_numbers(numbers):
     return [n**2 for n in numbers]
 
 if __name__ == "__main__":
